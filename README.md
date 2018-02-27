@@ -21,3 +21,5 @@
 
 ### 향후 계획
 - smart contract 기능 추가된 logchain(s) 개발
+---
+좀 더 자세한 내용은 ppt 파일을 참고하시길바랍니다
